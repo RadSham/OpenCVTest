@@ -1,0 +1,25 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Project exclude paths
+/openCV/build/
+/openCV/build/intermediates/javac/debug/classes/
+/openCV/build/generated/aidl_source_output_dir/debug/out/
+/openCV/build/generated/ap_generated_sources/debug/out/
+/openCV/build/generated/res/resValues/debug/
+/openCV/build/generated/source/buildConfig/debug/
+/openCV/java/
+/openCV/libcxx_helper/
